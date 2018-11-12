@@ -1,0 +1,101 @@
+body {
+  background-image: url(../images/background.png);
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.outside-header {
+  font-size: 55px;
+  font-weight: 400 ;
+  color: #ffffff;
+  weight: 484px;
+  height: 60px;
+  margin-left: 290px;
+  margin-top: 92px;
+  font-style: italic;
+}
+
+.image {
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+input{
+  border:2px solid;
+  border-radius:25px;
+
+}
+
+.name {
+  float: left;
+  position: absolute;
+  left: 530px;
+  top: 292px;
+}
+
+.name-2{
+  float: left;
+  position: absolute;
+  left: 530px;
+  top: 392px;
+}
+
+.pho{
+  position: absolute;
+  left: 1100px;
+  top: 392px;
+}
+
+.to{
+  position: absolute;
+  left: 1100px;
+  top: 450px;
+}
+
+.photo{
+  position: absolute;
+  left: 1150px;
+  top: 320px;
+}
+
+.phone{
+  position: absolute;
+  left: 530px;
+  top: 492px;
+}
+
+.hope{
+  position: absolute;
+  left: 530px;
+  top: 592px;
+}
+
+select{
+  border:2px solid;
+  border-radius:25px;
+  width: 380px;
+  height: 30px;
+  border-color: white;
+}
+
+.box{
+  position: absolute;
+  left: 30px;
+  top: 50px;
+}
+
+button{
+  position: absolute;
+  left: 920px;
+  top: 810px;
+  color: white;
+  background-color: #50b4f5;
+  box-shadow: 1px 1px 1px #888888;
+  width: 100px;
+  height: 46px;
+}
+
+input{
+  border-color: white;
+}
