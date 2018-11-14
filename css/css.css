@@ -24,7 +24,7 @@ body {
 input{
   border:2px solid;
   border-radius:25px;
-
+  border-color: white;
 }
 
 .name {
@@ -90,8 +90,4 @@ select{
   left: 880px;
   top: 795px;
 
-}
-
-input{
-  border-color: white;
 }
